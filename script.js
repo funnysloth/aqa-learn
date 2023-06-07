@@ -1,0 +1,1 @@
+document.write("<div style='color: green'><h1>DMYTRO</h1></div>")
